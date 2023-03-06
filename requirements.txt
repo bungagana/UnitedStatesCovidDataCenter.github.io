@@ -6,3 +6,7 @@ matplotlib
 joblib
 scikit-learn
 streamlit-option-menu
+CSV
+Txt
+option_menu
+Pillow

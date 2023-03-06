@@ -78,6 +78,7 @@ if selected == "Home":
     <h6> <em> It's My First Time w/ Streamlit </em></h6>
     </div>
     """
+    st.markdown("Dataset:[OpenAI](https://data.humdata.org/dataset/nyt-covid-19-data/resource/34450bc6-76e5-49a5-879e-26edfa7b3b27)")
     st.markdown(centered_text, unsafe_allow_html=True)
     st.markdown("---")
     
