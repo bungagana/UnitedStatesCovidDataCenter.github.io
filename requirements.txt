@@ -10,3 +10,4 @@ CSV
 Txt
 option_menu
 Pillow
+mysql-connector-python
